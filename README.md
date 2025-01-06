@@ -1,7 +1,5 @@
 # minishell
-minishell project from 42 School London
 
-## Overview
 The goal was to create a small version of a [Bash](https://www.gnu.org/software/bash/). The shell can execute multiple commands, support redirection and piping, manage environment variables, and implement several built-in commands. It also handles specific keyboard signals (`ctrl-C`, `ctrl-D`) in interactive mode.
 
 ![minishell in work](/minishell.gif)
